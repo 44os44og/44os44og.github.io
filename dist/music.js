@@ -1,0 +1,3 @@
+// build time:Tue May 29 2018 20:36:43 GMT+0800 (CST)
+const ap=new APlayer({container:document.getElementById("aplayer"),fixed:true,autoplay:false,listMaxHeight:"210px",listFolded:true,audio:[{name:"sub/objective",artist:"ぼくのりりっくのぼうよみ",url:"http://music.163.com/song/media/outer/url?id=39449876.mp3",cover:"http://p1.music.126.net/4pCNnLKu0m3qGTIhv70YOQ==/3246857840729730.jpg"}]});
+//rebuild by neat 
