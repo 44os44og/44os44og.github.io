@@ -5,9 +5,9 @@
   <subtitle>( *・ω・)✄╰ひ╯</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://touyoux.top/"/>
   <updated>2018-05-31T11:24:51.601Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://touyoux.top/</id>
   
   <author>
     <name>盐汤</name>
@@ -18,37 +18,37 @@
   
   <entry>
     <title>「编写高质量Python代码的59个有效方法」笔记</title>
-    <link href="http://yoursite.com/2018/05/31/59notes/"/>
-    <id>http://yoursite.com/2018/05/31/59notes/</id>
+    <link href="https://touyoux.top/2018/05/31/59notes/"/>
+    <id>https://touyoux.top/2018/05/31/59notes/</id>
     <published>2018-05-31T10:49:19.000Z</published>
     <updated>2018-05-31T11:24:51.601Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Jun 01 2018 14:54:12 GMT+0800 (CST) --&gt;&lt;p&gt;学习Python的时候被人推荐了这本书, 据说是进阶非常好的书, 边看边记算是督促自己学习了.&lt;/p&gt;&lt;p&gt;∠( ᐛ 」∠)＿&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 01 2018 15:02:39 GMT+0800 (CST) --&gt;&lt;p&gt;学习Python的时候被人推荐了这本书, 据说是进阶非常好的书, 边看边记算是督促自己学习了.&lt;/p&gt;&lt;p&gt;∠( ᐛ 」∠)＿&lt;/p&gt;
     
     </summary>
     
     
-      <category term="笔记" scheme="http://yoursite.com/tags/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://touyoux.top/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>杂记</title>
-    <link href="http://yoursite.com/2018/05/29/notes/"/>
-    <id>http://yoursite.com/2018/05/29/notes/</id>
+    <link href="https://touyoux.top/2018/05/29/notes/"/>
+    <id>https://touyoux.top/2018/05/29/notes/</id>
     <published>2018-05-29T11:18:32.000Z</published>
     <updated>2018-06-01T02:46:21.693Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Fri Jun 01 2018 14:54:12 GMT+0800 (CST) --&gt;&lt;p&gt;🌸 就是些杂记…&lt;/p&gt;
+      &lt;!-- build time:Fri Jun 01 2018 15:02:39 GMT+0800 (CST) --&gt;&lt;p&gt;🌸 就是些杂记…&lt;/p&gt;
     
     </summary>
     
     
-      <category term="笔记" scheme="http://yoursite.com/tags/%E7%AC%94%E8%AE%B0/"/>
+      <category term="笔记" scheme="https://touyoux.top/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
